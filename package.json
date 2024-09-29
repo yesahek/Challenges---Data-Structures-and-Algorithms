@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "test": "^3.3.0"
+  },
+  "name": "challenges---data-structures-and-algorithms",
+  "description": "Mastering  data structures and algorithms (DSA).",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
