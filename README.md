@@ -1,2 +1,3 @@
-# DSA-In-Python
-Mastering  data structures and algorithms (DSA) in Python.
+# DSA
+## Challenges---Data-Structures-and-Algorithms
+Mastering  data structures and algorithms (DSA).
